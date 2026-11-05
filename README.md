@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on an AI assistant for desktops using a local LLama3 model with speech recognition
 - 🌱 I’m currently learning how to use/integrate LLMs, their associated libraries, and 2D video game development in Godot
-- 📫 How to reach me: Email: renealmeida1013@gmail.com
+- 📫 How to reach me: renealmeida1013@gmail.com
+- 🖥 Website: https://ralmeida1013.github.io/#about
